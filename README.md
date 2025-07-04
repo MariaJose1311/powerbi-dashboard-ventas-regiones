@@ -49,7 +49,7 @@ powerbi-dashboard-ventas-regiones/
 
 ## 📷 Vista previa
 
-![Dashboard Preview](screenshots/Dashhboard.pdf)
+![Dashboard Preview](screenshots/Dashboard.pdf)
 
 ## 🧑‍💻 Autor
 
