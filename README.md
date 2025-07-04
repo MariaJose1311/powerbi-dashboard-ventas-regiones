@@ -21,7 +21,7 @@ Este proyecto presenta un **dashboard interactivo en Power BI** que analiza las 
 - `Resumen_ejecutivo_ventas.pbix`: archivo Power BI que importa, transforma y visualiza los datos.
 
 ## 📁 Estructura del repositorio
-
+```
 powerbi-dashboard-ventas-regiones/
 ├── Resumen_ejecutivo_ventas.pbix # Archivo principal de Power BI
 ├── data/
@@ -31,7 +31,7 @@ powerbi-dashboard-ventas-regiones/
 ├── screenshots/
 │ └── Dashboard.pdf # Vista previa del dashboard
 └── README.md # Descripción del proyecto
-
+```
 
 ## 💡 Cómo usar
 
